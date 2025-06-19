@@ -1,5 +1,5 @@
 # Greeks_valuation
-# Greeks Valuation
+
 
 This repository demonstrates the calculation of option Greeks and related hedging strategies using Python.
 It includes:
